@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gym-page/static/css/main.6fa1091a.css",
-    "main.js": "/gym-page/static/js/main.87812831.js",
+    "main.js": "/gym-page/static/js/main.bd208013.js",
     "static/js/453.c04321f0.chunk.js": "/gym-page/static/js/453.c04321f0.chunk.js",
     "static/media/wall_background.jpg": "/gym-page/static/media/wall_background.be917ec968dfc3cf325f.jpg",
     "static/media/nutrition_background.jpg": "/gym-page/static/media/nutrition_background.dd36c8d8483064374cac.jpg",
@@ -10,11 +10,11 @@
     "static/media/dumbell.jpg": "/gym-page/static/media/dumbell.a84de8eb30620972d9c2.jpg",
     "index.html": "/gym-page/index.html",
     "main.6fa1091a.css.map": "/gym-page/static/css/main.6fa1091a.css.map",
-    "main.87812831.js.map": "/gym-page/static/js/main.87812831.js.map",
+    "main.bd208013.js.map": "/gym-page/static/js/main.bd208013.js.map",
     "453.c04321f0.chunk.js.map": "/gym-page/static/js/453.c04321f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fa1091a.css",
-    "static/js/main.87812831.js"
+    "static/js/main.bd208013.js"
   ]
 }
