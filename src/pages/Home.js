@@ -1,5 +1,5 @@
 import React from 'react';
-import Founder from './Founder.png';
+import Founder from './Founder-new.png';
 import Background from '../images/wall_background.jpg';
 import Dumbell from '../images/dumbell.jpg';
 
