@@ -192,7 +192,7 @@ body{
   background-color: #0C1416;
   color:#FCFCF0;
   text-align:end;
-  animation: slideIn ease-in-out;
+  animation: slideIn 1s ease-in-out;
   animation-timeline: view(block 40% 0%);
 }
 
@@ -296,7 +296,7 @@ body{
   padding:10px;
   margin:auto;
   text-align: center;
-  animation: slideRight ease-in;
+  animation: slideRight 1s ease-in;
   animation-timeline: view(block 100% 0%);
 }
 
@@ -502,7 +502,7 @@ body{
     padding:10px;
     margin:auto;
     text-align: center;
-    animation: slideRight ease-in;
+    animation: slideRight 1s ease-in;
     animation-timeline: view(block 100% 0%);
   }
 
@@ -510,7 +510,7 @@ body{
     grid-column:2/ span 2;
     grid-row: 1;
     padding:10px;
-    animation: slideLeft ease-in;
+    animation: slideLeft 1s ease-in;
     animation-timeline: view(block 100% 0%);
   }
 
