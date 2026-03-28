@@ -4,6 +4,7 @@ import '../Components/Navbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
+import { useNavigate } from "react-router-dom";
 
 
 const Navbar = () => {
@@ -24,7 +25,8 @@ const Navbar = () => {
 };
 
 function handleClick() {
-    window.location.href = '/';
+    const navigate = useNavigate();
+    navigate("/");
 }
 
 
