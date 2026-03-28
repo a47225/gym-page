@@ -25,8 +25,7 @@ const Navbar = () => {
 };
 
 function handleClick() {
-    const navigate = useNavigate();
-    navigate("/");
+    window.location.href = '/gym-page/';
 }
 
 
